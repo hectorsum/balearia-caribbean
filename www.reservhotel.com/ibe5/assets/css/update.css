@@ -1,0 +1,105 @@
+.btn-es{
+  margin-left: 0px !important;
+  margin-top: 0px!important;
+}
+.alt-q{
+  margin-top: 0 !important;
+}
+.thumb-details .espaciado{
+  margin-bottom: 0 !important;
+}
+.amen_button{
+  margin-top: 0 !important;
+}
+.boton-div{
+  width: 100% !important;
+}
+img {
+  max-width: 100% !important;
+}
+.external{
+  width: 100% !important;
+  margin-left: 0 !important;
+}
+.thumb-details .img-size1 {
+  padding: 15px 0 !important;
+  max-height: 200px !important;
+  width: 100% !important;
+}
+.fa-clock-o, .fa-clock-o-hotel {
+  content: url(../images/time_icon.svg) !important;
+}
+.flights-wrap .flight-list .slides li{
+  padding: 0;
+}
+
+.buttontextbottom .price:before, .money-format:before, .flightclassinner .price:before, .money:before, .grand:before, .price-total:before, .flight-select-inner .price:before, .col-content-right .price:before, .custom-price:before, .money:before, .prices-box-inner .f-right:before{
+  content: '$';
+}
+.buttontextbottom .price:after, .money-format:after, .money:after, .flightclassinner .price:after, .grand:after, .price-total:after, .col-content .price:after, .flight-select-inner .price:after, .custom-price:after, .money:after, .prices-box-inner .f-right:after{
+  content: 'USD';
+}
+.col-content .f15px{
+  font-size: 16px !important;
+}
+.f15px{
+  margin-left: 0 !important;
+}
+.f11px {
+  font-size: 14px !important;
+}
+.pop-up-title-match, .btn-gold{
+  width: 100%;
+  text-align: center;
+  white-space: normal;
+  padding: 12px 24px !important;
+  font-size: 12px;
+}
+.col-content{
+  padding: inherit !important;
+}
+img {
+  border: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100% !important;
+}
+.flights-wrap .flight-list li{
+  margin: 0 !important;
+  width: 100%;
+}
+@media (max-width: 1200px){
+  .ferry-info .col-content{
+    padding: 0 !important;
+  }
+  .col-two-div{
+    margin: 0 !important;
+  }
+}
+@media (max-width: 992px){
+  .thumb-details .img-size1 {
+    width: 100%;
+  }
+}
+@media (max-width: 768px){
+  
+}
+@media (max-width: 576px){  
+  .col-two-div {
+    margin-left: 21px !important;
+    margin-bottom: 2% !important;
+  }
+  .col-content{
+    padding: inherit !important;
+  }
+  .size-information{
+    padding: 1rem !important;
+  }
+  .col-content-right .select-btn{
+    width: 100%;
+  }
+  .flights-wrap .flight-list li{
+    margin: 0 !important;
+    width: 100%;
+  }
+}

@@ -51,11 +51,10 @@
   padding-bottom: 0
 }
 
-@media(max-width:790px) {
+@media(max-width:767px) {
   .breadcrumb-header {
     width: 100%
   }
-
   .nav-breadcrumb {
     display: none
   }
